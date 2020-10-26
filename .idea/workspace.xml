@@ -137,6 +137,8 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/laravel-lang" />
+      <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jHEY9PTN5kYemI0Pd03Bznqe1U" />
@@ -176,6 +178,7 @@
       <updated>1603452677355</updated>
       <workItem from="1603452686272" duration="2670000" />
       <workItem from="1603708000198" duration="860000" />
+      <workItem from="1603709014507" duration="1999000" />
     </task>
     <servers />
   </component>
@@ -192,8 +195,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="904" y="320" key="EditFileWatcherDialog" timestamp="1603709053933">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="904" y="320" key="EditFileWatcherDialog/0.23.1920.1016@0.23.1920.1016" timestamp="1603709053933" />
     <state x="1169" y="465" key="NewPhpFileDialog" timestamp="1603458728181">
       <screen x="0" y="23" width="1920" height="1015" />
     </state>
