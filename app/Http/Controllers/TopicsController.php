@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Handlers\ImageUploadHandler;
 use App\Models\Category;
 use App\Models\Topic;
 use Illuminate\Http\Request;
@@ -43,6 +44,11 @@ class TopicsController extends Controller
 	    $topic->save();
 
 		return redirect()->route('topics.show', $topic->id)->with('message', 'Created successfully.');
+	}
+
+    public function uploadImage(Request $request, ImageUploadHandler $upload)
+    {
+            
 	}
 
 	public function edit(Topic $topic)
