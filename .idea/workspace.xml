@@ -149,6 +149,9 @@
       <path value="$PROJECT_DIR$/vendor/mews/purifier" />
       <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
       <path value="$PROJECT_DIR$/vendor/overtrue/pinyin" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/vendor/laravel/horizon" />
+      <path value="$PROJECT_DIR$/vendor/cakephp/chronos" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jHEY9PTN5kYemI0Pd03Bznqe1U" />
@@ -201,7 +204,7 @@
       <workItem from="1604485372545" duration="3420000" />
       <workItem from="1604536497028" duration="5139000" />
       <workItem from="1604568447840" duration="136000" />
-      <workItem from="1604663668710" duration="1667000" />
+      <workItem from="1604663668710" duration="2539000" />
     </task>
     <servers />
   </component>
