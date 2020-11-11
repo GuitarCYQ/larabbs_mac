@@ -165,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Handlers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/users" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -175,8 +175,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/Handlers" />
       <recent name="$PROJECT_DIR$/resources/views/users" />
+      <recent name="$PROJECT_DIR$/resources/views/topics" />
+      <recent name="$PROJECT_DIR$/app/Handlers" />
       <recent name="$PROJECT_DIR$/resources/views/shared" />
       <recent name="$PROJECT_DIR$/resources/views/layouts" />
     </key>
@@ -205,7 +206,7 @@
       <workItem from="1604536497028" duration="5139000" />
       <workItem from="1604568447840" duration="136000" />
       <workItem from="1604663668710" duration="2771000" />
-      <workItem from="1605095076174" duration="1230000" />
+      <workItem from="1605095076174" duration="1682000" />
     </task>
     <servers />
   </component>
