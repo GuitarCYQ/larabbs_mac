@@ -22,5 +22,12 @@ class UsersTableSeeder extends Seeder
         $user->password = bcrypt('111111');
         $user->avatar = 'https://cdn.learnku.com/uploads/images/201710/14/1/ZqM7iaP4CR.png';
         $user->save();
+
+        //初始化用户角色 将1号用户指派为站长
+        $user->assignRole('Founder');
+
+        //将2号用户指派为[管理员]
+        $user = User::find(2);
+        $user->assignRole('Maintainer');
     }
 }
