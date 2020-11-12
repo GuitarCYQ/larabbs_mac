@@ -33,6 +33,7 @@ class AuthServiceProvider extends ServiceProvider
             return 'App\Policies\\'.class_basename($modelClass).'Policy';
         });
 
+        //horizon 判断是否是站长才可以进去
         \Horizon::auth(function ($request) {
             //是否是站长
             return \Auth::user()->hasRole('Founder');
