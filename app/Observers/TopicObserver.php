@@ -31,4 +31,10 @@ class TopicObserver
             dispatch(new TranslateSlug($topic));
         }
     }
+
+    //话题连带删除
+    public function deleted(Topic $topic)
+    {
+        \DB::table('replies')->where('topic_id',$topic->id)->delete();
+    }
 }
