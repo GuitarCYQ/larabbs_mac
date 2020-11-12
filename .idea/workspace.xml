@@ -165,21 +165,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/users" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/notifications" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/notifications/types" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/notifications" />
       <recent name="$PROJECT_DIR$/resources/views/users" />
       <recent name="$PROJECT_DIR$/resources/views/topics" />
       <recent name="$PROJECT_DIR$/app/Handlers" />
       <recent name="$PROJECT_DIR$/resources/views/shared" />
-      <recent name="$PROJECT_DIR$/resources/views/layouts" />
     </key>
   </component>
   <component name="RunManager">
@@ -207,7 +211,7 @@
       <workItem from="1604568447840" duration="136000" />
       <workItem from="1604663668710" duration="2771000" />
       <workItem from="1605095076174" duration="2916000" />
-      <workItem from="1605142917411" duration="1829000" />
+      <workItem from="1605142917411" duration="3269000" />
     </task>
     <servers />
   </component>
@@ -235,13 +239,13 @@
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
     <state x="904" y="320" key="EditFileWatcherDialog/0.23.1920.1016@0.23.1920.1016" timestamp="1603709053933" />
-    <state x="1169" y="453" key="NewPhpFileDialog" timestamp="1604557432731">
-      <screen x="0" y="23" width="1920" height="988" />
+    <state x="1169" y="454" key="NewPhpFileDialog" timestamp="1605146398847">
+      <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="1169" y="465" key="NewPhpFileDialog/0.23.1920.1015@0.23.1920.1015" timestamp="1603458728181" />
     <state x="1169" y="453" key="NewPhpFileDialog/0.23.1920.987@0.23.1920.987" timestamp="1604316298456" />
     <state x="1169" y="453" key="NewPhpFileDialog/0.23.1920.988@0.23.1920.988" timestamp="1604557432731" />
-    <state x="1169" y="454" key="NewPhpFileDialog/0.23.1920.990@0.23.1920.990" timestamp="1603940949628" />
+    <state x="1169" y="454" key="NewPhpFileDialog/0.23.1920.990@0.23.1920.990" timestamp="1605146398847" />
     <state x="963" y="282" width="582" height="490" key="find.popup" timestamp="1604666980963">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
