@@ -169,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/notifications" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/administrator" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -183,11 +183,11 @@
       <recent name="$PROJECT_DIR$/resources/views/notifications/types" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/administrator" />
       <recent name="$PROJECT_DIR$/resources/views/notifications" />
       <recent name="$PROJECT_DIR$/resources/views/users" />
       <recent name="$PROJECT_DIR$/resources/views/topics" />
       <recent name="$PROJECT_DIR$/app/Handlers" />
-      <recent name="$PROJECT_DIR$/resources/views/shared" />
     </key>
   </component>
   <component name="RunManager">
@@ -215,7 +215,7 @@
       <workItem from="1604568447840" duration="136000" />
       <workItem from="1604663668710" duration="2771000" />
       <workItem from="1605095076174" duration="2916000" />
-      <workItem from="1605142917411" duration="8523000" />
+      <workItem from="1605142917411" duration="8751000" />
     </task>
     <servers />
   </component>
